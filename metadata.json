@@ -1,0 +1,5 @@
+{
+  "name": "ZenPaper Daily",
+  "description": "A daily 4K wallpaper generator powered by Gemini and Unsplash, featuring AI-generated bilingual poetry and color extraction.",
+  "requestFramePermissions": []
+}
